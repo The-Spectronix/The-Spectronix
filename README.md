@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Ishant Raj
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishant-verma-662434352/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/The-Spectronix)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajishant128@gmail.com)
 
 ## 🚀 About Me
 
@@ -58,18 +58,26 @@ I'm a passionate Computer Science student specializing in **AI/ML** and **Full-S
 
 ## 📈 GitHub Analytics
 
+<!-- IMPORTANT: Replace 'YOUR_GITHUB_USERNAME' with your actual GitHub username in ALL the URLs below -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=The-Spectronix&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Spectronix&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Spectronix&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Spectronix&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
+
+<!-- Alternative if stats don't load:
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Summary"/>
+</p>
+-->
 
 ---
 
@@ -77,19 +85,19 @@ I'm a passionate Computer Science student specializing in **AI/ML** and **Full-S
 
 <div align="center">
 
-### 🛡️ [VigilantFlowAI](https://github.com/YOUR_USERNAME/VigilantFlowAI)
+### 🛡️ [VigilantFlowAI](https://github.com/The-Spectronix/VigilantFlowAI)
 **AI-Powered Surveillance & Analytics System**  
 Advanced computer vision solution leveraging OpenCV and AI for intelligent monitoring and real-time analytics.
 
 ---
 
-### 🗺️ [YATRA_Insight](https://github.com/YOUR_USERNAME/YATRA_Insight)
+### 🗺️ [YATRA_Insight](https://github.com/The-Spectronix/YATRA_Insight)
 **Travel Analytics Platform**  
 Full-stack travel insights application providing data-driven recommendations and trip planning features.
 
 ---
 
-### 📚 [Super60 Educational Management System](https://github.com/YOUR_USERNAME/Super60)
+### 📚 [Super60 Educational Management System](https://github.com/The-Spectronix/Super60)
 **Complete Education Management Solution**  
 Comprehensive platform for managing educational institutions with student tracking, analytics, and administrative tools.
 
@@ -102,13 +110,13 @@ Comprehensive platform for managing educational institutions with student tracki
 I'm always excited to collaborate on interesting projects or discuss new opportunities!
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ishant-verma-662434352/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rajishant128@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/The-Spectronix"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=The-Spectronix&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 ---
