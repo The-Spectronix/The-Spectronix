@@ -58,26 +58,18 @@ I'm a passionate Computer Science student specializing in **AI/ML** and **Full-S
 
 ## 📈 GitHub Analytics
 
-<!-- IMPORTANT: Replace 'YOUR_GITHUB_USERNAME' with your actual GitHub username in ALL the URLs below -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=The-Spectronix&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="49%"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=The-Spectronix&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Spectronix&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=The-Spectronix&theme=tokyonight" alt="Profile Summary" width="100%"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Spectronix&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Spectronix&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
-
-<!-- Alternative if stats don't load:
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Summary"/>
-</p>
--->
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Spectronix&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+</div>
 
 ---
 
@@ -89,11 +81,27 @@ I'm a passionate Computer Science student specializing in **AI/ML** and **Full-S
 **AI-Powered Surveillance & Analytics System**  
 Advanced computer vision solution leveraging OpenCV and AI for intelligent monitoring and real-time analytics.
 
+<p>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+</p>
+
 ---
 
 ### 🗺️ [YATRA_Insight](https://github.com/The-Spectronix/YATRA_Insight)
 **Travel Analytics Platform**  
 Full-stack travel insights application providing data-driven recommendations and trip planning features.
+
+<p>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white"/>
+</p>
 
 ---
 
@@ -101,7 +109,39 @@ Full-stack travel insights application providing data-driven recommendations and
 **Complete Education Management Solution**  
 Comprehensive platform for managing educational institutions with student tracking, analytics, and administrative tools.
 
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white"/>
+</p>
+
 </div>
+
+---
+
+## 💼 Current Focus
+
+```javascript
+const currentlyWorkingOn = {
+    learning: ["Advanced AI/ML Algorithms", "System Design", "Cloud Architecture"],
+    building: ["VigilantFlowAI v2.0", "Personal Portfolio Website"],
+    exploring: ["LLMs", "Computer Vision", "Edge AI"],
+    goals_2026: ["Contribute to Open Source", "Build 10+ Projects", "Master DSA"]
+};
+```
+
+---
+
+## 📊 Weekly Development Breakdown
+
+```text
+Python       12 hrs 30 mins  ████████████░░░░░░░░░   55.2%
+JavaScript   6 hrs 15 mins   ███████░░░░░░░░░░░░░░   27.6%
+TypeScript   2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░   12.1%
+Other        1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░   5.1%
+```
 
 ---
 
@@ -113,6 +153,7 @@ I'm always excited to collaborate on interesting projects or discuss new opportu
   <a href="https://www.linkedin.com/in/ishant-verma-662434352/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rajishant128@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/The-Spectronix"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://x.com/IshantRaj_Verma"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -121,8 +162,20 @@ I'm always excited to collaborate on interesting projects or discuss new opportu
 
 ---
 
+## 📈 Contribution Stats
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=The-Spectronix&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+</p>
+
+---
+
 <h3 align="center">⚡ "Turning Ideas Into Innovation" ⚡</h3>
 
 <p align="center">
 Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out. 🚀
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
